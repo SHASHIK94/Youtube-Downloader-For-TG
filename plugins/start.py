@@ -6,8 +6,8 @@ async def start(client, message):
     # return
     Alpha = InlineKeyboardMarkup([
         
-        [InlineKeyboardButton("📌️ Whatsapp 🔎", url="https://chat.whatsapp.com/FOALYW6PMitLo9jntxEGqi")],
-        [InlineKeyboardButton("📌️ Tg Group 🔎", url="https://t.me/telegrm_music9")]
+        [InlineKeyboardButton("My Dev ⚡️", url="https://t.me/invisible_einstein")],
+        [InlineKeyboardButton("Telegram Channel⚡️ ", url="https://t.me/coobydoobots")]
 
     ])
     thumbnail_url = "https://telegra.ph/file/35ba0a85f0e7f346e99ce.jpg"
